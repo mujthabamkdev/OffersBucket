@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_capture_description">Save notification and email preview text from apps you explicitly allow. Captures stay on this device for you to review.</string>
+</resources>
