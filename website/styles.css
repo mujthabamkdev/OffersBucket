@@ -175,7 +175,7 @@ h3 { font-size: 18px; font-weight: 800; letter-spacing: -.5px; line-height: 1.4;
 .coming-soon { margin-left: auto; color: #cebaa3; font-size: 9px; font-weight: 400; white-space: nowrap; }
 .download-status { margin-top: 24px; text-align: center; color: #bdbdb7; font-size: 10px; line-height: 1.8; }
 
-.site-footer { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding-block: 32px; }
+.site-footer { display: flex; flex-direction: column; align-items: center; gap: 12px; padding-block: 32px; text-align: center; }
 .brand-footer { font-size: 18px; gap: 6px; letter-spacing: -.7px; }
 .site-footer > p { font-size: 11px; color: var(--muted); }
 .back-to-top { display: inline-flex; align-items: center; gap: 15px; min-height: 44px; font-size: 11px; }
@@ -275,7 +275,7 @@ h3 { font-size: 18px; font-weight: 800; letter-spacing: -.5px; line-height: 1.4;
   .platform-card { padding: 24px; }
   .platform-card > p { font-size: 13px; }
   .download-status { max-width: 330px; margin-inline: auto; }
-  .site-footer { flex-wrap: wrap; justify-content: space-between; gap: 10px; padding-block: 24px; }
+  .site-footer { gap: 8px; padding-block: 24px; }
   .brand-footer { font-size: 18px; }
   .brand-footer > img { width: 30px; }
   .site-footer > p { order: 3; width: 100%; font-size: 10px; }
