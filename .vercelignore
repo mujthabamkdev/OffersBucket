@@ -1,0 +1,12 @@
+.dart_tool
+build
+.idea
+.opencode
+node_modules
+android/.gradle
+ios/Pods
+macos/Flutter/ephemeral
+*.apk
+*.aab
+*.jks
+*.keystore

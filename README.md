@@ -23,6 +23,13 @@ OffersBucket is a local-first Flutter app for keeping coupons, promotions, and p
 
 ## Run
 
+### Landing page
+
+The static product website lives in [`website/`](website/README.md). Preview it
+with `python3 -m http.server 8080 --bind 127.0.0.1 --directory website`, then open
+<http://localhost:8080>. It includes sample app screenshots and placeholders
+for future Google Play and App Store links.
+
 ### Visual styling
 
 Shared styling lives in `lib/theme/app_theme.dart` and `lib/widgets/`.

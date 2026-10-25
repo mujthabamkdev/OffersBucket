@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="664" height="664" viewBox="180 180 664 664" fill="none">
+  <title>OffersBucket</title>
+  <g stroke="#222222" stroke-width="20" stroke-linecap="round">
+    <path d="M229 377a313 313 0 0 1 566 0"/>
+    <path d="M795 647a313 313 0 0 1-566 0"/>
+  </g>
+  <path d="M412 438v-40a100 100 0 0 1 200 0v40" stroke="#222222" stroke-width="36" stroke-linecap="round"/>
+  <path d="M330 438h364l-42 259c-2 15-15 25-30 25H402c-15 0-28-10-30-25l-42-259Z" fill="#222222"/>
+  <g transform="rotate(-12 512 571)">
+    <rect x="425" y="513" width="174" height="116" rx="18" fill="white"/>
+    <circle cx="474" cy="546" r="10" fill="#222222"/>
+    <circle cx="550" cy="596" r="10" fill="#222222"/>
+    <path d="m535 540-46 62" stroke="#222222" stroke-width="13" stroke-linecap="round"/>
+  </g>
+</svg>
